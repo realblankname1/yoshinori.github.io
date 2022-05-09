@@ -2,4 +2,7 @@ title: Matthew Yoshinori Otani McKinney
 description: Matthew McKinney is a Masters Student at BYU researching applications of Machine Learning in Scatterometry
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
