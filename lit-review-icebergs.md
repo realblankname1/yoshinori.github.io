@@ -4,8 +4,6 @@ title: Iceberg Literature Review
 description: Literature Review on Iceberg Tracking
 ---
 
-# Notes
-
 # Tools
 ## Semantic Segmentation
 Demo: [DemoSegmenter.ipynb (https://github.com/CSAILVision/semantic-segmentation-pytorch)](https://colab.research.google.com/drive/1I-iGvV8DAGL3iu7JE2ogifmIwMs_I_ow)
@@ -24,3 +22,14 @@ A Future step will be predicting the path of the iceberg. This can be done using
 * [Deep Learning for Detecting and Classifying Ocean Objects: Application of YoloV3 for Iceberg–Ship Discrimination](https://www.mdpi.com/2220-9964/9/12/758/htm)
 * [Deep Learning for Iceberg Detection in Satellite Images](https://www.diva-portal.org/smash/get/diva2:1532720/FULLTEXT01.pdf)
 * [GlacierNet: A Deep-Learning Approach for Debris-Covered Glacier Mapping](https://web.archive.org/web/20201107031829id_/https://ieeexplore.ieee.org/ielx7/6287639/8948470/09081912.pdf)
+* Anartic iceberg distribution revealed through three decades of systematic ship-based observations
+* A Comprehensive Database for Anartic Iceberg Tracking Using Scatterometer Data
+
+# Annotated Bibliography
+## A Comprehensive Database for Anartic Iceberg Tracking Using Scatterometer Data
+### Authors: Jeffrey S. Budge & David G. Long
+### Publication: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+### Year: 2018
+### Description:
+
+
