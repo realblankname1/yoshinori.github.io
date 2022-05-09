@@ -9,6 +9,8 @@ description: This Page would be to coordinate lab presentations in an easy to fi
 # Summer of 2022 Schedule
 ## Room 446 EB
 ## [Zoom Link](https://byu.zoom.us/fake_link)
+
+
 |Date      |Presenter           |Link to Slides|
 |---|---|---|
 |05-10-2022|Professor David Long|[Research Slides](./download.txt)|
