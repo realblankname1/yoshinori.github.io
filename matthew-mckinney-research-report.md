@@ -21,6 +21,8 @@ Note: This is an example calendar
 Email: mymckinn@byu.edu  
 
 # Previous Research
+
+
 |Last Update|Project|Task|Description|Status|Sources|
 |---|---|---|---|---|---|
 |05-08-2022|Iceberg Tracking|Train Semantic Segmenter|Using a standard repository for semantic segmentation, train a general semantic segmenter.|Completed|None|
