@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Welcome
+title: MERS
 description: MERS GitHub Page for Lab Coordination
 ---
-
 
 # Important Pages:  
 ## Lab Pages:  
