@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Presentation Schedule
-description: This Page would be to coordinate lab presentations in an easy to find spot
+title: David G. Long
+description: This Page is to find out about Dr. Long's availability to meet
 ---
 # Calendar
 Note: This is an example calendar

@@ -3,7 +3,7 @@ layout: default
 ---
 # Weekly Report
 |Last Update|Project|Task|Description|Status|Sources|
-|:---------|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 |05-08-2022|Iceberg Tracking|Train Semantic Segmenter|Using a standard repository for semantic segmentation, train a general semantic segmenter.|Completed|None|
 |05-10-2022|Lab Page|Prototype|Make a Lab Prototype Webpage to coordinate Lab Items and Schedules.|In Progress|[Home](./index.md)|
 |05-10-2022|Iceberg Tracking|Data Access|Access Iceberg Data|In Progress|None|
@@ -19,6 +19,6 @@ Email: mymckinn@byu.edu
 
 # Previous Research
 |Last Update|Project|Task|Description|Status|Sources|
-|:---------|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 |05-08-2022|Iceberg Tracking|Train Semantic Segmenter|Using a standard repository for semantic segmentation, train a general semantic segmenter.|Completed|None|
 |05-02-2022|C Neural Network|Complete Neueral Network|Complete making a forward pass in C for Josh's Neural Network|Completed|N/A|

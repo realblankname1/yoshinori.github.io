@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Presentation Schedule
-description: This Page would be to coordinate lab presentations in an easy to find spot
+title: Iceberg Literature Review
+description: Literature Review on Iceberg Tracking
 ---
 
 # Notes
