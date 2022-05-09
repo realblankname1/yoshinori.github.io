@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Markdown Reference Page
+description: A Page filled with different markdown styles. View the markdown file to see how to use that markdown style.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
