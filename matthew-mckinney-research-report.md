@@ -17,3 +17,6 @@ Note: This is an example calendar
 Email: mymckinn@byu.edu  
 
 # Previous Research
+|Last Update|Project|Task|Description|Status|Sources|
+|:---------|:---|:---|:---|:---|:---|
+|05-02-2022|C Neural Network|Complete Neueral Network|Complete making a forward pass in C for Josh's Neural Network|Completed|N/A|
