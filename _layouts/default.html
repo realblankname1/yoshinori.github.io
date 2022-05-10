@@ -21,6 +21,9 @@
       {% if site.show_home %}
         <a href="{{ site.url }}" class="btn">Home</a>
       {% endif %}
+      {% if site.show_edit %}
+        <a href="{{ page.url }}" class="btn">Home</a>
+      {% endif %}
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}

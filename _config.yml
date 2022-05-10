@@ -2,11 +2,14 @@ title: MERS
 description: MERS GitHub Page for Lab Coordination
 show_downloads: false
 show_home: true
+show_edit: true
 google_analytics: 314507482
 theme: jekyll-theme-cayman
 domain: yoshinori.github.io
 url: https://realblankname1.github.io/yoshinori.github.io/
+repo_base: https://github.com/realblankname1/yoshinori.github.io/blob/
 baseurl: /yoshinori.github.io/
+branch: main
 # remote_theme: pages-themes/cayman@v0.2.0
 # plugins:
 # - jekyll-remote-theme
