@@ -22,8 +22,8 @@
         <a href="{{ site.url }}" class="btn">Home</a>
       {% endif %}
       {% if site.show_edit %}
-        <a href="{{ page.url }}" class="btn">{{ site.url }}</a>
-        <a href="{{ page.url }}" class="btn">{{ page.url }}</a>
+        <a href="{{ site.url }}" class="btn">{{ site.url }}</a>
+        <a href="{{ repo_base }}{{ branch }}/{{ page.url }}" class="btn">{{ page.url }}</a>
       {% endif %}
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
